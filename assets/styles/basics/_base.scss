@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    color: white;
+    background-image: url('../../imgs/862202.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Jost;
+}
+
+input {
+    font-family: Jost;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin-block-start: 0;
+    margin-block-end: 1rem;
+}
+
+h1 {
+    font-family: Jost-Black;
+}
+
+h2 {
+    font-family: Jost-Bold;
+}
+
+h4,
+span {
+    font-family: Jost-Light;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+button {
+    cursor: pointer;
+}
